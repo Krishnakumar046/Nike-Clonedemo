@@ -1,0 +1,66 @@
+[
+    {
+        "id": "8",
+        "name": "Air Max-90",
+        "description": "Men's shoe",
+        "price": 11250,
+        "icon": "/imagess/air-max-90-shoes.png",
+        "Quantity": 1
+    },
+    {
+        "id": "9",
+        "name": "Air Max-DN",
+        "description": "Men's shoe",
+        "price": 18395,
+        "icon": "/imagess/air-max-dn.png",
+        "Quantity": 1
+    },
+    {
+        "id": "10",
+        "name": "Dunk-Low-Retro",
+        "description": "Men's shoe",
+        "price": 15295,
+        "icon": "/imagess/dunk-low-retro-shoes.png",
+        "Quantity": 1
+    },
+    {
+        "id": "11",
+        "name": "Pegasus-Running-plus",
+        "description": "Men's shoe",
+        "price": 16554,
+        "icon": "/imagess/pegasus-plus-road-running-shoes.png",
+        "Quantity": 1
+    },
+    {
+        "id": "12",
+        "name": "Pegasus-Trail-5-plus",
+        "description": "Men's shoe",
+        "price": 18500,
+        "icon": "/imagess/pegasus-trail-5-trail-running-shoes.png",
+        "Quantity": 1
+    },
+    {
+        "id": "13",
+        "name": "Streakfly-road",
+        "description": "Men's shoe",
+        "price": 20356,
+        "icon": "/imagess/streakfly-road-racing.png",
+        "Quantity": 1
+    },
+    {
+        "id": "14",
+        "name": "Cortez-plus",
+        "description": "Men's shoe",
+        "price": 19562,
+        "icon": "/imagess/cortez-shoes.png",
+        "Quantity": 1
+    },
+    {
+        "id": "15",
+        "name": "Invincible-plus",
+        "description": "Men's shoe",
+        "price": 19800,
+        "icon": "/imagess/invincible-3-blueprint-road-running-shoes.png",
+        "Quantity": 1
+    }
+]
